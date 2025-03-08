@@ -2,7 +2,7 @@ import './onboarding.css'
 import { LockOutlined, MailOutlined, UserOutlined } from '@ant-design/icons';
 import { Button, Checkbox, Form, Input, Flex } from 'antd';
 import { useNavigate } from 'react-router-dom';
-import Logo from "../../assets/Logo.png"
+import Logo from "../../assets/logo.png"
 
 
 const SignUp = () => {
